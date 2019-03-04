@@ -1,0 +1,17 @@
+.study{
+    color: rebeccapurple;
+    width: 100px;
+    height: 200px;
+    background: orange url(http://localhost:8888/7424152e102e831b8a2248e6001c91b2.jpg) no-repeat center/cover;
+}.sass-test {
+  height: 100px;
+  background-color: aquamarine; }
+  .sass-test p {
+    text-align: center;
+    color: orange; }
+
+.study {
+  color: rebeccapurple;
+  width: 100px;
+  height: 200px;
+  background: orange url(http://localhost:8888/7424152e102e831b8a2248e6001c91b2.jpg) no-repeat center/cover; }
