@@ -15,7 +15,6 @@ module.exports={
     //入口文件
     entry:{
         index:'./src/index.js',
-        index2:'./src/index2.js'
     },
     //出口文件配置项
     output:{
